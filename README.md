@@ -1,11 +1,11 @@
 # advanced-data-analytics
 This is a consulting case problem that leverages data analytics to derive a solution.
 
-PowerCo. is a major gas and electricity utility that supplies to corporate, SME and residential customers. 
-![image](https://user-images.githubusercontent.com/71928132/156936443-845c9629-df1e-4a43-8b34-81f8bd87af61.png) Europe is facing a significant churn problem due to the power-liberalization of the energy market.  Problem is largest in the SME segment.We need to develop a predictive model to predict customer churn.
+PowerCo. is a major gas and electricity utility that supplies to corporate, SME and residential customers. Europe is facing a significant churn problem due to the power-liberalization of the energy market.  Problem is largest in the SME segment.We need to develop a predictive model to predict customer churn.
 
 
-##Hypothesis - 
+Hypothesis - 
+
 that the churn is driven by the customer price sensitivity.
 Some possibilities:
 1.Churn-probable customers by 70% or above chances could be given a discount.
